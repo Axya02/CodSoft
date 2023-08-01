@@ -1,2 +1,2 @@
 # CodSoft
-Simple Calculator by HTML, CSS, JavaScript.
+Simple Calculator using HTML, CSS, JavaScript.
